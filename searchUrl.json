@@ -578,6 +578,22 @@
     },
     {
       "id": 1,
+      "name": "奇乐(优剧)资源",
+      "url": "https://zy.ujuba.com/api.php/provide/vod/at/xml",
+      "cate": "電影,1&&連續劇,2&&綜藝,3&&動漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "18x 飘花影院",
+      "url": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml",
+      "cate": "電影,1&&連續劇,2&&綜藝,3&&動漫,4&&微電影,20",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
       "name": "18X 大地资源",
       "url": "https://dadiapi.com/api.php",
       "cate": "日韩无码,1&&强奸乱伦,2&&欧美精品,3&&国产精品,4&&日韩精品,23&&动漫精品,20&&伦理影片,22&&偷拍自拍,27&&制服诱惑,25&&中文字幕,18&&有码视频,28&&人妻系列,16&&3p合集,32&&sm重口,40&&自慰系列,39",
